@@ -1,3 +1,4 @@
 # corey-schafer-practice
 testing github
-Some small practice problems
+Some small practice problems\n
+test
