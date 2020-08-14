@@ -1,5 +1,5 @@
 # corey-schafer-practice
-testing github
+testing github <br>
 Some small practice problems <br>
-test
+test.    <br>
 includes some dl exercises notebooks also
