@@ -27,4 +27,5 @@ for n in tuple_1:
 	if n==4:
 		print('Found')
 		break
-	print(n)	
+	print(n)
+	print(n)
